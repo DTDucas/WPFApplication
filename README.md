@@ -1,1 +1,1 @@
-# WPFApplication
+# WPF Application Template
